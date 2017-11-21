@@ -36,6 +36,7 @@ public class Rubrica {
         Persona p7 = new Persona("Alessandra", "Giustolisi", "3358031573");
 
         contatti.add(p1);
+
         contatti.add(p2);
         contatti.add(p3);
         contatti.add(p4);
