@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         telefono = findViewById(R.id.telefono);
         elimina = findViewById(R.id.button);
 
+
         final CustomAdapter customAdapter = new CustomAdapter(this, R.layout.itempersona, rubrica.getContatti());
         contact.setAdapter(customAdapter);
 
